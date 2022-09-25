@@ -132,7 +132,7 @@ console.log(valorTecladoGamer /= valorTecladoGamer);
 
 console.log( 2 === 2);
 
-alert("hello word");
+
 
 let pontos = 500
 
